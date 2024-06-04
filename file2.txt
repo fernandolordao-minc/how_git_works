@@ -1,4 +1,4 @@
 line #1
 line #2 fixing this line
-line #3 mere change
+line #3 included in forked repo & mere change
 line #4
